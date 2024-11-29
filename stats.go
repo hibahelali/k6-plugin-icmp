@@ -1,6 +1,6 @@
 package main
 
-import "github.com/loadimpact/k6/stats"
+import "go.k6.io/k6/lib"
 
 var (
 	PacketsRecv = stats.New("icmp.packets_sent", stats.Counter)
