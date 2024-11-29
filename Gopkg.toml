@@ -7,6 +7,6 @@
   version = "master"
 
 [[constraint]]
-  name = "github.com/loadimpact/k6"
-  version = "master"
+  name = "go.k6.io/k6"  
+  version = "latest"   
 
